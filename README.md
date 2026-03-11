@@ -69,7 +69,7 @@ K-Type Thermocouple
 ### Block Diagram
 The LabVIEW Block Diagram shows the complete data flow logic of the system — from DAQ signal acquisition to display, threshold comparison, and TDMS file logging.
 
-![Block Diagram](images/Block Diagram.png)
+![Block Diagram](images/BlockDiagram.png)
 
 **Key components visible in the Block Diagram:**
 - **DAQ Assistant** — acquires analog input from the thermocouple
@@ -85,7 +85,7 @@ The LabVIEW Block Diagram shows the complete data flow logic of the system — f
 ### Front Panel
 The Front Panel is the user interface of the system — what the operator sees and interacts with during live operation.
 
-![Front Panel](images/Front Panel.png)
+![Front Panel](images/FrontPanel.png)
 
 **Key elements on the Front Panel:**
 - **Temperature display** — shows current numeric reading
