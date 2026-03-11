@@ -1,20 +1,13 @@
 # 🌡️ Real-Time Temperature Monitoring System
 ### Measurement & Instrumentation Lab — Course End Project (CEP)
 **Pakistan Institute of Engineering & Applied Sciences (PIEAS)**
-
-![LabVIEW](https://img.shields.io/badge/LabVIEW-NI-FFD700?style=flat&logo=labview&logoColor=black)
-![DAQ](https://img.shields.io/badge/DAQ-NI_USB-00A86B?style=flat)
-![Sensor](https://img.shields.io/badge/Sensor-K--Type_Thermocouple-FF6B35?style=flat)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
-![Semester](https://img.shields.io/badge/Semester-5th-blue?style=flat)
-
 ---
 
 ## 📋 Project Overview
 
 This project implements a **real-time temperature monitoring and data logging system** using a K-type thermocouple sensor, a National Instruments DAQ device, and a LabVIEW-based virtual instrument (VI). The system continuously acquires temperature data, displays it on a live waveform chart and thermometer indicator, compares it against a user-defined reference threshold, and logs all data to a TDMS file for post-analysis.
 
-This was developed as the **Course End Project (CEP)** for the Measurement & Instrumentation (M&I) Lab during the 5th semester of BS Electrical Engineering at PIEAS.
+This was developed as the **Course Engineering Project (CEP)** for the Measurement & Instrumentation (M&I) Lab during the 5th semester of BS Electrical Engineering at PIEAS.
 
 ---
 
